@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: Admin
 webhook_url: carlosdiniz.dev
 sections:
+- type: heading
+  label: Home
 - type: jekyll-posts
   label: Posts
   create: all
