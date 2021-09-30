@@ -1,0 +1,19 @@
+---
+label: Welcome
+hide_body: true
+fields:
+- type: text
+  name: baseurl
+  label: baseurl
+- type: text
+  name: languageCode
+  label: languageCode
+- type: text
+  name: languageLang
+  label: languageLang
+- type: text
+  name: title
+  label: title
+- type: list
+  name: disableKinds
+  label: disableKinds
